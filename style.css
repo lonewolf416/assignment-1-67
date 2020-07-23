@@ -1,0 +1,17 @@
+.pic{
+    display: flex;
+    display: inline-block;
+    justify-content: space-around;
+    font-size: 100px;
+}
+.bla{
+    display: none;
+}
+.hehe{
+    width:200px;
+    height:200px;
+}
+.haha{
+    width:400px;
+    height:400px;
+}
